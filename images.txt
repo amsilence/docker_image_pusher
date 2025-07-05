@@ -6,3 +6,6 @@
 
 # 同步基础仓库
 nginxdemos/hello:latest
+
+chaitin/ingress-nginx-controller:v1.10.1
+chaitin/ingress-nginx-kube-webhook-certgen:v1.4.1
