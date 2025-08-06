@@ -5,7 +5,10 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 
 # 同步基础仓库
-nginxdemos/hello:latest
+#nginxdemos/hello:latest
 
-chaitin/ingress-nginx-controller:v1.10.1
-chaitin/ingress-nginx-kube-webhook-certgen:v1.4.1
+#chaitin/ingress-nginx-controller:v1.10.1
+#chaitin/ingress-nginx-kube-webhook-certgen:v1.4.1
+labring/(.*):(.*)
+
+
